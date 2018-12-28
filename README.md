@@ -1,0 +1,2 @@
+# XMLHttpRequest-test
+XMLHttpRequest demo
